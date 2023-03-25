@@ -1,0 +1,17 @@
+.desktop-content {
+  width: 77%;
+  margin-left: 20%;
+  padding: 20px;
+}
+.overview-txt1 {
+  margin-top: 80px;
+  margin-bottom: 20px;
+}
+.overview-txt2{
+    padding-top: 30px;
+    padding-left: 90px;
+}
+.overview-subtitle{
+    color: var(--secondarybrand);
+    font-weight: 700;
+}

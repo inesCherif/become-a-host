@@ -1,0 +1,61 @@
+{showPopup && (
+          <div className="popup">
+            <div className="popup-content">
+              <div className="popup-header">
+                <h3 className="popup-title">All themes</h3>
+                <button className="popup-close" onClick={handlePopup}>
+                  &times;
+                </button>
+              </div>
+
+              <div className="popup-body">
+                <div className="popup-grid">
+                  <div className="popup-cell">
+                    <div className="theme-icon"></div>
+                    <p className="theme-label">Animals</p>
+                  </div>
+                  <div className="popup-cell">
+                    <div className="theme-icon"></div>
+                    <p className="theme-label">Art &amp; Design</p>
+                  </div>
+                  <div className="popup-cell">
+                    <div className="theme-icon"></div>
+                    <p className="theme-label">Culture &amp; Society</p>
+                  </div>
+                  <div className="popup-cell">
+                    <div className="theme-icon"></div>
+                    <p className="theme-label">Food</p>
+                  </div>
+                  <div className="popup-cell">
+                    <div className="theme-icon"></div>
+                    <p className="theme-label">Drink</p>
+                  </div>
+                  <div className="popup-cell">
+                    <div className="theme-icon"></div>
+                    <p className="theme-label">Entertainment</p>
+                  </div>
+                  <div className="popup-cell">
+                    <div className="theme-icon"></div>
+                    <p className="theme-label">History &amp; Literatures</p>
+                  </div>
+                  <div className="popup-cell">
+                    <div className="theme-icon"></div>
+                    <p className="theme-label">Nature &amp; Out door</p>
+                  </div>
+                  <div className="popup-cell">
+                    <div className="theme-icon"></div>
+                    <p className="theme-label">Signtsees, shopping <br /> &amp; Transportation</p>
+                  </div>
+                  <div className="popup-cell">
+                    <div className="theme-icon"></div>
+                    <p className="theme-label">Sports</p>
+                  </div>
+                  <div className="popup-cell">
+                    <div className="theme-icon"></div>
+                    <p className="theme-label">Wellness</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        )}

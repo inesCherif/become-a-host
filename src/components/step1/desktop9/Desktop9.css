@@ -1,0 +1,15 @@
+.desktop-content {
+  width: 77%;
+  margin-left: 20%;
+  padding: 20px;
+}
+.textarea-description{
+  width: 735px;
+  background: #ffffff;
+  border: 1px solid #686868;
+  box-shadow: 0px 2px 1px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  padding-left: 10px;
+  padding-top: 10px;
+  resize: none;
+}
